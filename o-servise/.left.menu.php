@@ -15,13 +15,6 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Обратная связь", 
-		SITE_DIR."/o-servise/obratnaya-svyaz.php", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
 		"Новости", 
 		SITE_DIR."/o-servise/novosti/", 
 		Array(), 
@@ -30,7 +23,7 @@ $aMenuLinks = Array(
 	),
 	Array(
 		"Агенты", 
-		SITE_DIR."/o-servise/agenty/", 
+		SITE_DIR."/o-servise/agenty.php", 
 		Array(), 
 		Array(), 
 		"" 
