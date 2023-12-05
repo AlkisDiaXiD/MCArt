@@ -1,4 +1,4 @@
 <?
+$PERM["izbrannoe"]["6"]="R";
 $PERM["izbrannoe"]["*"]="D";
-$PERM["izbrannoe"]["6"]="X";
 ?>
